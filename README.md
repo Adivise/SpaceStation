@@ -18,11 +18,24 @@
 - [x] Database (JSON)
 - [x] Easy to use
 
+## 🎶 Support Source
+- [x] Youtube
+- [x] SoundCloud
+- [x] Twitch
+- [x] Apple
+- [x] Bandcamp
+- [x] Vimeo
+- [x] Https (Radio)
+
 ## 📎 Requirements
 
 - Node.js v16+ **[Download](https://nodejs.org/en/download/)**
 - Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
+- LavaLink **[Guide](https://github.com/freyacodes/lavalink)** (*Dev Version!* **[Download](https://ci.fredboat.com/repository)** )
 
+## 🛑 Super Requirements 
+
+- Java 11-13 **[Download JDK13](http://www.mediafire.com/file/m6gk7aoq96db8g0/file)** (i use this version) for LAVALINK!
 
 ## 📚 Installation
 
