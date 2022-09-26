@@ -1,0 +1,34 @@
+{
+  "name": "spacestation",
+  "version": "1.0.1",
+  "description": "✈ Join Discord: https://discord.gg/4pk97A2 👌",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/voice": "^0.11.0",
+    "chillout": "^5.0.0",
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2",
+    "erela.js": "^2.3.3",
+    "path": "^0.12.7",
+    "plsargs": "^0.1.6",
+    "recursive-readdir": "^2.2.2",
+    "st.db": "^5.1.4",
+    "stuffs": "^0.1.17"
+  },
+  "scripts": {
+    "start": "node --no-warnings index.js"
+  },
+  "author": "Adivise",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adivise/SpaceStation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Adivise/SpaceStation/issues"
+  },
+  "homepage": "https://github.com/Adivise/SpaceStation/#readme",
+  "devDependencies": {
+    "node": "^17.0.1"
+  }
+}
