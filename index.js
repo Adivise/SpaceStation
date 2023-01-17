@@ -3,6 +3,7 @@ const { Manager } = require("erela.js");
 
 const client = new Client({
     shards: "auto",
+    allowedMentions: { parse: ["users", "roles"] },
     intents: [
         GatewayIntentBits.Guilds,
         GatewayIntentBits.GuildMembers,
